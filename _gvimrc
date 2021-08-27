@@ -3,7 +3,7 @@
 source c:\program files\vim\_vimrc
 
 set guifont=Lucida_Console:h8:cANSI
-set guioptions=gmrLt
+set guioptions=grLt
 
 set sw=2
 set expandtab
