@@ -2,6 +2,8 @@
 
 source c:\program files\vim\_vimrc
 
+colorscheme torte
+
 set guifont=Lucida_Console:h8:cANSI
 set guioptions=grLt
 
