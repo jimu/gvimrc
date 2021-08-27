@@ -1,1 +1,1 @@
-git clone https://github.com/jimu/gvimrc.git %HOMEPATH%
+curl https://raw.githubusercontent.com/jimu/gvimrc/master/_gvimrc -o %HOMEPATH%\_gvimrc
