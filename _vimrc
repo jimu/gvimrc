@@ -1,5 +1,7 @@
 " put this file in %HOMEPATH%
 
+source c:\program files\vim\_vimrc
+
 set guifont=Lucida_Console:h8:cANSI
 set guioptions=gmrLt
 
